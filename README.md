@@ -8,6 +8,7 @@
 Find and replace Android studio  Ctrl+Shift+R on Windows and Linux/Ubuntu
 ✅Android Studio Shortcut✅
 Ctrl+D           -------Line Copy
+<br>
 Ctrl+C           -------sellected text Copy
 Ctrl+/ Single    -------Line Comment
 Ctrl+Shift+/     -------Select Multi Line Comment
